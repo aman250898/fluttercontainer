@@ -29,6 +29,7 @@ TODO: Include short and useful examples for package users. Add longer examples
 to `/example` folder.
 
 ```dart
+
 class FancyScreen extends StatelessWidget {
   const FancyScreen({Key? key}) : super(key: key);
 
@@ -46,6 +47,7 @@ class FancyScreen extends StatelessWidget {
     );
   }
 }
+
 ```
 
 ## Additional information
